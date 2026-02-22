@@ -20,11 +20,6 @@ ToolPurposePower BI DesktopDashboard design & data modelingDAXKPI calculations a
 
 🚀 Getting Started
 
-Clone the repository:
-
-bash   git clone https://github.com/anmolsingh143/performance-tracker.git
-   cd performance-tracker
-
 Open the .pbix file in Power BI Desktop.
 Update the data source path under Home → Transform Data → Data Source Settings to point to your local data file.
 Refresh the data and explore the dashboard.
