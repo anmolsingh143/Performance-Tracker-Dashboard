@@ -52,4 +52,4 @@ I'm open to feedback, collaborations, and opportunities!
 <div align="center">
 ⭐ If you found this project useful, please consider giving it a star! ⭐
 </div>
-https://github.com/anmolsingh143/Performance-Tracker-Dashboard/blob/main/Screenshot%202026-02-22%20230256.png
+(https://github.com/anmolsingh143/Performance-Tracker-Dashboard/blob/main/Screenshot%202026-02-22%20230256.png)
